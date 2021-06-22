@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.ferdinandsilva.pusoydos3.OBBDownloaderService;
-import com.ferdinandsilva.pusoydos3.DownloaderActivity;
+import com.ferdinandsilva.pusoy.OBBDownloaderService;
+import com.ferdinandsilva.pusoy.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.ferdinandsilva.pusoydos3.OBBData;
+import com.ferdinandsilva.pusoy.OBBData;
 
 
 public class DownloadShim

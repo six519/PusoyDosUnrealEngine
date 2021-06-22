@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ferdinandsilva.pusoydos3;
+package com.ferdinandsilva.pusoy;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ferdinandsilva.pusoydos3;
+package com.ferdinandsilva.pusoy;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

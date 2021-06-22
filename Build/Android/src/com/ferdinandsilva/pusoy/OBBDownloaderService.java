@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ferdinandsilva.pusoydos3;
+package com.ferdinandsilva.pusoy;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.ferdinandsilva.pusoydos3.AlarmReceiver.class.getName();
+        return com.ferdinandsilva.pusoy.AlarmReceiver.class.getName();
     }
 }
